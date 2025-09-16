@@ -37,7 +37,7 @@ helpful tip: when thinking about greedy/sorting, does sorting make the answer si
 always made it optimal to connect all A's and B's in those components (ONLY BECAUSE EDGES ARE SORTED IN ASCENDING ORDER)
 tip 2: always think possible solutions even if they involve more complex data structures/algos
 
-post comment: seems almsot like commone sense, we want to match nodes using smallest edges possible, never optimal to wait if we
+post comment: seems almsot like common sense, we want to match nodes using smallest edges possible, never optimal to wait if we
 sort edges in ascending order
 */
 
