@@ -51,6 +51,7 @@ visited nodes as completed, since the bean bowl is always the most to the right,
 mark everything as completed
 
 distances[i] can thus be removed
+can be simplified further to just look for closest bean bowl starting, since if we go earlier we can also just go to a higher i bowl.
 ---------------------------------------------------------------------------
 Intended solution:
 Loop through beans from left to right
